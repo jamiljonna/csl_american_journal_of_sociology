@@ -1,7 +1,6 @@
-csl_american_journal_of_sociology
-=================================
-
 CSL citation style for American Journal of Sociology
+
+=================================
 
 I created this citation style using "Permafrost and Periglacial Processes" as a base.
 
