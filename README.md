@@ -3,7 +3,16 @@ csl_american_journal_of_sociology
 
 CSL citation style for American Journal of Sociology
 
-I created this citation style using "Chicago Author-Date" as a template. With each version I'll try to document all of the changes I make.
+I created this citation style using "Permafrost and Periglacial Processes" as a base.
+
+
+v.0.0.2
+
+1. Changed base CSL style to  and Perilacial Processes
+2. Redid inline styles to get page numbering and Ibid support added
+3. Added support for chapter point locators
+4. Made "issue" display in bibliography
+5. Closed up space around colon separators between vol. no. and pp.
 
 v.0.0.1
 
